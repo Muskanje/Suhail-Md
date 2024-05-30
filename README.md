@@ -1,15 +1,15 @@
- <h1 align="center"> Faisal udas Md </h1> 
+q <h1 align="center"> Faisal udas Md </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 EXTERNAL PLUGINS 🍫</a></h3> 
+<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media">🍫 Faisal💔udas🍫</a></h3> 
 
-<h4 align="center"> ✔️ Fixed Heroku Ban Problem ✔️</h4> 
+<h4 align="center"> ✔️ Faisal💔udas03037484167 ✔️</h4> 
 
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail-Md" height="400" src="/lib/assets/pk.jpg">
+    <img alt="Suhail-Md" height="400" src="https://telegra.ph/file/724c9ab488b7e5a07d5f6.jpg">
   </a>
 </p>
     
